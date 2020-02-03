@@ -1,0 +1,21 @@
+{
+    "name": "darkniuncor",
+    "displayName": "darkniuncor",
+    "description": "Full of candy and rainbows or mischief and destruction?",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "dark-unicorn",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-unicorn-color-theme.json"
+            }
+        ]
+    }
+}
