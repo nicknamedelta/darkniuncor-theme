@@ -28,5 +28,6 @@ The [colorsafe.co/](http://colorsafe.co/) generate accessible text colors.
 - ![#65737e](https://placehold.it/15/65737e/000000?text=+) `#65737e`
 - ![#00000050](https://placehold.it/15/00000050/000000?text=+) `#00000050`
 
-## Based on these tutorial
-[These](https://css-tricks.com/creating-a-vs-code-theme/) tutorial teach to creat a VsCode Theme using `yo code`.
+**Based on:**
+
+- [CSSTricks - creating a vscode theme](https://css-tricks.com/creating-a-vs-code-theme/);
