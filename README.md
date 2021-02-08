@@ -12,10 +12,27 @@
 |----|------|
 |![JS](./assets/screenshot_js.png)|![JSON](./assets/screenshot_json.png)|
 
+## :runner: To run this project ? - running locally
+
+```shell
+# use your terminal/cmd to clone this repository
+
+git clone https://github.com/nicknamedelta/darkniuncor-theme.git
+
+# access darkniuncor-theme folder
+
+cd darkniuncor-theme
+
+# preview theme in vscode
+
+'fn + f5' (in Mac) or just 'f5'
+```
+More information about the tests: [CSSTricks - test drive](https://css-tricks.com/creating-a-vs-code-theme/#test-drive);
+
 ## color palette
-
-The [colorsafe.co/](http://colorsafe.co/) generate accessible text colors.
-
+<details>
+  <summary>The <a href="http://colorsafe.co/">colorsafe.co/</a> generate accessible text colors.</summary>
+  
 - ![#263238](https://placehold.it/15/263238/000000?text=+) `#263238`
 - ![#eeeeee](https://placehold.it/15/eeeeee/000000?text=+) `#eeeeee`
 - ![#baf73c](https://placehold.it/15/baf73c/000000?text=+) `#baf73c`
@@ -33,6 +50,7 @@ The [colorsafe.co/](http://colorsafe.co/) generate accessible text colors.
 - ![#c17e70](https://placehold.it/15/c17e70/000000?text=+) `#c17e70`
 - ![#65737e](https://placehold.it/15/65737e/000000?text=+) `#65737e`
 - ![#00000050](https://placehold.it/15/00000050/000000?text=+) `#00000050`
+</details>
 
 **Based on:**
 
