@@ -31,7 +31,7 @@ More information about the tests: [CSSTricks - test drive](https://css-tricks.co
 
 ## color palette
 <details>
-  <summary>The <a href="http://colorsafe.co/">colorsafe.co/</a> generate accessible text colors.</summary>
+  <summary><a href="http://colorsafe.co/">colorsafe</a> generate accessible text colors:</summary>
   
 - ![#263238](https://placehold.it/15/263238/000000?text=+) `#263238`
 - ![#eeeeee](https://placehold.it/15/eeeeee/000000?text=+) `#eeeeee`
