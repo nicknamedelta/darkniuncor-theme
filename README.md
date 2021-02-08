@@ -12,7 +12,7 @@
 |----|------|
 |![JS](./assets/screenshot_js.png)|![JSON](./assets/screenshot_json.png)|
 
-## :runner: To run this project ? - running locally
+## :runner: To run this project (running locally) ?
 
 ```shell
 # use your terminal/cmd to clone this repository
