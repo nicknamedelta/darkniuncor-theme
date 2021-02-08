@@ -1,14 +1,20 @@
-# Darkniuncor - Dark Unicorn
+# darkniuncor - Dark Unicorn
+
 ಠ▃ಠ - "Eh, full of candy and rainbows or mischief and destruction ???"
 
 ヾ(≧∇≦)ゞ - "Full of candy and rainbows !!!"
 
 (꒪⌓꒪) - "Hmm, mischief and destruction ?!"
 
-## COLOR PALETTE
+## screenshots
+
+| JS | JSON |
+|----|------|
+|![JS](./assets/screenshot_js.png)|![JSON](./assets/screenshot_json.png)|
+
+## color palette
+
 The [colorsafe.co/](http://colorsafe.co/) generate accessible text colors.
- 
-### Selected Colors
 
 - ![#263238](https://placehold.it/15/263238/000000?text=+) `#263238`
 - ![#eeeeee](https://placehold.it/15/eeeeee/000000?text=+) `#eeeeee`
