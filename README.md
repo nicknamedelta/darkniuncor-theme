@@ -19,11 +19,11 @@
 
 git clone https://github.com/nicknamedelta/darkniuncor-theme.git
 
-# access darkniuncor-theme folder
+# run command below (or open darkniuncor-theme folder in vscode):
 
-cd darkniuncor-theme
+cd darkniuncor-theme && code .
 
-# preview theme in vscode
+# preview theme, type (in vscode):
 
 'fn + f5' (in Mac) or just 'f5'
 ```
