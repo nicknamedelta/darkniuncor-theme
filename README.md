@@ -23,7 +23,7 @@ git clone https://github.com/nicknamedelta/darkniuncor-theme.git
 
 cd darkniuncor-theme && code .
 
-# preview theme, type (in vscode):
+# preview theme (in vscode):
 
 'fn + f5' (in Mac) or just 'f5'
 ```
