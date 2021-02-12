@@ -27,7 +27,7 @@ cd darkniuncor-theme && code .
 
 'fn + f5' (in Mac) or just 'f5'
 ```
-More information about the tests: [CSSTricks - test drive](https://css-tricks.com/creating-a-vs-code-theme/#test-drive);
+More information about tests: [CSSTricks - test drive](https://css-tricks.com/creating-a-vs-code-theme/#test-drive);
 
 ## color palette
 <details>
