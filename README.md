@@ -2,10 +2,6 @@
 
 ಠ▃ಠ - "Eh, full of candy and rainbows or mischief and destruction ???"
 
-ヾ(≧∇≦)ゞ - "Full of candy and rainbows !!!"
-
-(꒪⌓꒪) - "Hmm, mischief and destruction ?!"
-
 ## screenshots
 
 | JS | JSON |
